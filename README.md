@@ -6,7 +6,7 @@ In this repository, I covered some numerical methods that have their own advanta
 
 **Covered Methods:**
 
-* Secant 
+* Secant (Matlab & Python)
 * Bisecant 
 * Fixed-point
 * Newton
